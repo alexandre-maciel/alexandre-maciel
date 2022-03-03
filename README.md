@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack development with JavaScript.
 - 🌱 I’m currently learning HTML, CSS3, JavaScript, React, React Native.
 - 💞️ I’m looking to collaborate on projects to learn and help other people.
-- 📫 How to reach me: alemaciel0026@gmail.com / alexandre.maciel0027@gmail.com
+- 📫 How to reach me: alemaciel0026@gmail.com / alexandre.maciel0027@gmail.com / https://www.linkedin.com/in/alexandre-maciel-474644bb/
 
 <!---
 alexandre-maciel/alexandre-maciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
