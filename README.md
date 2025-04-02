@@ -1,4 +1,4 @@
-![{70535115-0071-47FB-B716-9E7E0E9FB5C5}](https://github.com/user-attachments/assets/d0e3be4b-5123-4be9-a43c-837db06453a0)- 👋 Hi, I’m @alexandre-maciel
+(https://github.com/user-attachments/assets/d0e3be4b-5123-4be9-a43c-837db06453a0)- 👋 Hi, I’m @alexandre-maciel
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects to learn and help other people.
