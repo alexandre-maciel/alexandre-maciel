@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @alexandre-maciel
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects to learn and help other people.
-- 📫 How to reach me: alemaciel0026@gmail.com / alexandre.maciel0027@gmail.com / https://www.linkedin.com/in/alexandre-maciel-474644bb/
+# 👋 Olá, eu sou Alexandre Maciel
 
-<!---
-alexandre-maciel/alexandre-maciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Full Stack em formação  
+📍 Campinas, SP - Brasil
+
+Atualmente estou focado em desenvolvimento de aplicações web e
+engenharia de software, construindo projetos reais para desenvolver
+experiência prática.
+
+## 🛠️ Tecnologias
+
+JavaScript • TypeScript • Node.js • HTML • CSS • Git • GitHub
+
+Atualmente estudando:
+React • APIs REST • SQL • Arquitetura de Software
+
+## 🚀 Projetos em destaque
+
+### Sistema ERP
+Sistema para gerenciamento de vendas, produtos, estoque, fluxo de caixa
+e operações de um estabelecimento comercial.
+
+### Landing Pages
+Projetos de sites responsivos desenvolvidos para negócios locais.
+
+### Projeto Doe Sangue
+Aplicação web desenvolvida como projeto Full Stack.
+
+## 📫 Contato
+
+LinkedIn: [[seu LinkedIn]](https://www.linkedin.com/in/alexandre-maciel-474644bb/)
+Email: alemaciel0026@gmail.com
+
