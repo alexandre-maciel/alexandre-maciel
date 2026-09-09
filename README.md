@@ -20,14 +20,6 @@ Me chamo Alexandre Maciel, tenho 26 anos e sou de Campinas, São Paulo. Concluí
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
----
-
-## 📊 Estatísticas
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-maciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-maciel&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-maciel-474644bb/)
 
