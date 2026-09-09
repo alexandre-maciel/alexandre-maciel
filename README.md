@@ -29,6 +29,6 @@ Aplicação web desenvolvida como projeto Full Stack.
 
 ## 📫 Contato
 
-LinkedIn: [[seu LinkedIn]](https://www.linkedin.com/in/alexandre-maciel-474644bb/)
+LinkedIn: https://www.linkedin.com/in/alexandre-maciel-474644bb/
 Email: alemaciel0026@gmail.com
 
