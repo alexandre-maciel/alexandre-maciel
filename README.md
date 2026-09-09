@@ -8,8 +8,6 @@ Me chamo Alexandre Maciel, tenho 26 anos e sou de Campinas, São Paulo. Concluí
 
 ## 🛠️ Linguagens e Tecnologias
 
-## 🛠️ Linguagens e Tecnologias
-
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -31,6 +29,6 @@ Me chamo Alexandre Maciel, tenho 26 anos e sou de Campinas, São Paulo. Concluí
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-maciel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-maciel-474644bb/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alemaciel0026@gmail.com)
