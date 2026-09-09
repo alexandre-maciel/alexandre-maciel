@@ -1,16 +1,8 @@
 # 👨‍💻 Alexandre Maciel
 
-### Desenvolvedor Full Stack em formação
+### Desenvolvedor Full Stack
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em
-desenvolvimento de software e aplicações web.
-
-Atualmente estou desenvolvendo projetos Full Stack e aprofundando meus
-conhecimentos em **JavaScript, TypeScript, Node.js, React e bancos de dados**.
-
-Meu objetivo é iniciar minha carreira profissional como desenvolvedor,
-buscando oportunidades de **estágio ou desenvolvedor júnior**.
-
+Me chamo Alexandre Maciel, tenho 26 anos e sou de Campinas, São Paulo. Concluí o ensino médio integrado ao curso técnico em Mecatrônica e atualmente curso Análise e Desenvolvimento de Sistemas na Unimetrocamp. Sou uma pessoa curiosa, gosto de entender como as coisas funcionam e, principalmente, de transformar ideias em projetos. Tenho interesse em desenvolvimento de software e tecnologia e gosto de criar soluções que possam resolver problemas reais, facilitar tarefas e ser úteis de alguma forma. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvendo projetos próprios enquanto busco minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
