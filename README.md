@@ -11,7 +11,6 @@ conhecimentos em **JavaScript, TypeScript, Node.js, React e bancos de dados**.
 Meu objetivo é iniciar minha carreira profissional como desenvolvedor,
 buscando oportunidades de **estágio ou desenvolvedor júnior**.
 
-📍 Campinas - SP
 
 ---
 
@@ -50,35 +49,6 @@ buscando oportunidades de **estágio ou desenvolvedor júnior**.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-maciel&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-maciel&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Projetos em destaque
-
-### 🏪 Sistema ERP
-
-Sistema de gestão desenvolvido para auxiliar no controle de operações
-de um estabelecimento comercial.
-
-**Principais funcionalidades:**
-
-- Controle de produtos
-- Controle de estoque
-- Registro de vendas
-- Fluxo de caixa
-- Controle de despesas
-- Relatórios
-
----
-
-### 🩸 Projeto Doe Sangue
-
-Aplicação Full Stack desenvolvida como projeto de estudo,
-trabalhando conceitos de Front-end e Back-end.
-
----
-
-## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
